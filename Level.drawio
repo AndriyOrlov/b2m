@@ -1,0 +1,20 @@
+<mxfile host="app.diagrams.net" modified="2024-03-25T19:20:17.760Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1" etag="x28CaR4xh3_guBfA7GT3" version="24.1.0" type="github">
+  <diagram name="Сторінка-1" id="WdcQ3PWtKUHoPUpkf1Wi">
+    <mxGraphModel dx="362" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3SxUbX6e-PLJSKlcs2_e-1" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="140" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3SxUbX6e-PLJSKlcs2_e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3SxUbX6e-PLJSKlcs2_e-1" target="3SxUbX6e-PLJSKlcs2_e-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
